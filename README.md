@@ -51,13 +51,14 @@ Splitting expenses among friends, roommates, or colleagues can often be tedious 
 ---
 
 ## 📷 Screenshots  
-![image![image](https://github.com/user-attachments/assets/a76ddd74-d8f2-4a8c-9521-5c136a40db95)
-![image](https://github.com/user-attachments/assets/40d68d3d-22b3-453c-b5f3-a874451bc20d)
-![image](https://github.com/user-attachments/assets/6eb1a526-9665-4ca7-b223-67aa001c8877)
-![image](https://github.com/user-attachments/assets/0de067cf-bf9c-4633-88d8-a5da898bc33b)
-![image](https://github.com/user-attachments/assets/92f7a921-39cd-461a-b204-8324f983dbea)
-![image](https://github.com/user-attachments/assets/4a8cf59f-8795-4a94-a1ba-ceaeb197cf84)
-![image](https://github.com/user-attachments/assets/2f3e62bb-d90c-4445-9a01-4c86ce6f56fa)
+![image](https://github.com/user-attachments/assets/c390074e-8f9f-4085-b93e-2b55fb4a437b)
+![image](https://github.com/user-attachments/assets/73d78bdf-9945-4856-8243-c1378fa570a1)
+![image](https://github.com/user-attachments/assets/16063df7-f484-472e-bd6a-7da2c036ffeb)
+![image](https://github.com/user-attachments/assets/926db697-5453-462a-8665-38c8d101d83e)
+![image](https://github.com/user-attachments/assets/592b3247-19a8-47a4-82a2-71cc4fbf6212)
+![image](https://github.com/user-attachments/assets/3584d93e-8449-4083-836b-dc8e34c7196a)
+![image](https://github.com/user-attachments/assets/e3de3940-2124-42a7-9a6a-0d737a0f5973)
+
 
  
 
