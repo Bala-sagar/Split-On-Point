@@ -1,0 +1,14 @@
+#img1 {
+    height: 40px;
+    width: 40px;
+}
+
+#abcd {
+    margin-left: 70rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar {
+    background-color: #d066ff;
+}

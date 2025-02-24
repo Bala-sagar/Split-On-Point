@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="../Styles/login.css">
+</head>
+
+<body>
+  <section class="parent">
+    <section class="child">
+      <br>
+      <br>
+      <p align="center">
+        <img src="../Assets/billing.jpg" alt="divide bill" width="300" height="440">
+      </p>
+    </section>
+    <section class="child">
+      <div class="center">
+        <h2 align="center">Login</h2>
+        <br>
+        <h3 align="center" color:"blue">Please enter the credentials</h3>
+        <form action="../Script/login_check.php" method="post">
+          <div class="txt_field">
+            <input type="text" name="rgd" required>
+            <span></span>
+            <label>Registration Number</label>
+          </div>
+          <div class="txt_field">
+            <input type="password" name="psw" required>
+            <span></span>
+            <label>Password</label>
+          </div>
+          <input type="checkbox" checked="checked" name="remember"> Remember me
+          <br><br>
+          <input type="submit" value="Login">
+          <div class="signup_link">
+            Not a member? <a href="./SignUp.html">Signup</a>
+          </div>
+        </form>
+        <br>
+        <br><br>
+      </div>
+    </section>
+  </section>
+</body>
+
+</html>

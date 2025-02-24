@@ -1,0 +1,58 @@
+<!Doctype html>
+<!-- 20BCE1053 : Ritwik Singh -->
+<html>
+
+<head>
+    <title>Sign Up</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../Styles/signup.css">
+</head>
+
+<body>
+    <div id="d2">
+        <h1 style="font-size: 3rem; margin-top: 4rem;"> Sign Up Form </h1>
+        <p style="margin-top: 0;">Fill in the form to become a member.</p>
+        <form name="form1" action="../Script/store.php" method="POST" enctype="multipart/form-data">
+            <table>
+                <tr>
+                    <td><label for="name"><b>Name</b></label></td>
+                    <td><input id="name" type="text" placeholder="Your Full Name" name="name"></td>
+                </tr>
+                <tr>
+                    <td><label for="regno"><b>Registration No</b></label></td>
+                    <td><input id="regno" type="text" placeholder="Eg. 20BCE1001" name="regno"></td>
+                </tr>
+                    <tr>
+                        <td><label for="email"><b>Email</b></label></td>
+                        <td><input id="email" type="email" placeholder="Your Email Address" name="email"></td>
+                    </tr>
+                <tr>
+                    <td><label for="phone"><b>Phone</b></label></td>
+                    <td><input id="phone" type="text" placeholder="Your Contact Number" name="phone"></td>
+                </tr>
+                <tr>
+                    <td><label for="pic"><b>Upload Photo</b></label></td>
+                    <td><input type="file" name="pic"></td>
+                </tr>
+                <tr>
+                    <td><label for="pass"><b>Password </b></label></td>
+                    <td><input id="pass" type="password" name="pass"></td>
+                </tr>
+                <tr>
+                    <td><label for="conpass"><b>Confirm Password </b></label></td>
+                    <td><input id="conpass" type="password" name="conpass"></td>
+                </tr>
+                <tr style="text-align:center; height:50px">
+                    <td colspan="2"><input type="submit" value="SUBMIT"></td>
+                </tr>
+                <tr style="text-align:center; height:50px">
+                    <td colspan="2"><a href="Login.html" style="font-size: 16px;">Already a member ?
+                            Log In</a></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</body>
+</html>

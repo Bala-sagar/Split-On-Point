@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+}
+
+.prof:hover {
+    background-color: #71C9CE;
+    cursor: pointer;
+}
+
+.rightDiv {
+    background-color: #E3FDFD;
+}
+
+.leftDiv {
+    background-color: #CBF1F5;
+}
+
+.green {
+    background-color: #4DD470;
+}
+.green:hover {
+    background-color: #149E53;
+}
+
+.red {
+    background-color: #F42D2D;
+}
+.red:hover {
+    background-color: #AF1631;
+}
+
+.active {
+    background-color: #71C9CE;
+}

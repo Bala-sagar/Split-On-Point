@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(37deg, rgb(32, 218, 233),rgb(40, 21, 236));
+}
+
+input {
+    background-color: black;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    color: white;
+}
+
+#d2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    font-size: 25px;
+    margin-right: 2rem;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+}
+
+tr {
+    height: 40px;
+}
+
+input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 3rem auto 0;
+    font-size: 25px;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+    background-image: linear-gradient(to right, #895cf2 0%, #ffabf4 50%, #895cf2 100%);
+    transition: 0.5s;
+    background-size: 200% auto;
+    border-radius: 6px;
+}
+
+input[type="submit"]:hover {
+    background-position: right center;
+    cursor: pointer;
+}
+
+.logo {
+    width: 20%;
+}
+
+::selection {
+    color: red;
+    background: yellow;
+}
