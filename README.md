@@ -1,4 +1,4 @@
-# 🌟 Split on Point – Smart Expense Sharing Made Simple 💸  
+#  Split on Point – Smart Expense Sharing Made Simple 💸  
 
 Effortlessly manage shared expenses, split bills fairly, and settle debts with ease. **Split on Point** is designed to eliminate the hassle of manual calculations, ensuring transparency and fairness in expense management.  
 
@@ -7,14 +7,14 @@ Effortlessly manage shared expenses, split bills fairly, and settle debts with e
 ## 📌 Overview  
 Splitting expenses among friends, roommates, or colleagues can often be tedious and confusing. **Split on Point** simplifies the process by automating bill splitting, tracking contributions, and ensuring everyone pays their fair share. Whether it’s rent, groceries, trips, or dining out, our platform keeps records organized and up-to-date.  
 
-## 🚀 Key Features  
-✅ **User Authentication** – Secure signup and login system  
-✅ **Group Expense Tracking** – Add, manage, and categorize shared expenses  
-✅ **Automated Bill Splitting** – Instantly calculate individual shares  
-✅ **Debt Settlement** – Keep track of who owes whom and mark payments as settled  
-✅ **User-Friendly Dashboard** – Intuitive and interactive interface for seamless navigation  
-✅ **Profile Management** – View, update, and customize user details  
-✅ **Responsive Design** – Optimized for both desktop and mobile users  
+##  Key Features  
+-> **User Authentication** – Secure signup and login system  
+-> **Group Expense Tracking** – Add, manage, and categorize shared expenses  
+-> **Automated Bill Splitting** – Instantly calculate individual shares  
+-> **Debt Settlement** – Keep track of who owes whom and mark payments as settled  
+-> **User-Friendly Dashboard** – Intuitive and interactive interface for seamless navigation  
+-> **Profile Management** – View, update, and customize user details  
+-> **Responsive Design** – Optimized for both desktop and mobile users  
 
 ---
 
@@ -65,10 +65,10 @@ Splitting expenses among friends, roommates, or colleagues can often be tedious 
 ---
 
 ## 🔮 Future Enhancements  
-✨ **Mobile App Development (Android & iOS)**  
-✨ **UPI & Payment Gateway Integration**  
-✨ **Smart Budgeting & Expense Insights using AI**  
-✨ **Multi-Currency Support for International Groups**  
+-> **Mobile App Development (Android & iOS)**  
+-> **UPI & Payment Gateway Integration**  
+-> **Smart Budgeting & Expense Insights using AI**  
+-> **Multi-Currency Support for International Groups**  
 
 ---
 
@@ -85,4 +85,4 @@ This project is licensed under the **MIT License** – free to use, modify, and 
 
 ---
 
-🚀 **Let’s simplify expense management together!** Feel free to star ⭐ the repository if you find it helpful.  
+ **Let’s simplify expense management together!** Feel free to star ⭐ the repository if you find it helpful.  
